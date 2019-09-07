@@ -1,2 +1,0 @@
-# kodi
-kodi için repo 
